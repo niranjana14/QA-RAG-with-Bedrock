@@ -1,1 +1,1 @@
-"# QA-RAG-with-Bedrock" 
+## QA-RAG with Langchain and AWS Bedrock 
